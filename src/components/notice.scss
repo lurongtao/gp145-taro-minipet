@@ -1,0 +1,33 @@
+.button {
+  margin: 20rpx;
+  background: #f29a38 !important;
+}
+
+.button.back {
+  background: #55b637 !important;
+}
+
+.button.submit {
+  background: #e1473c !important;
+}
+
+
+
+.notice {
+
+}
+
+.notice .info {
+  display: flex;
+  padding: 40rpx;
+  align-items: center;
+  justify-content: center;
+}
+
+.notice .info icon {
+  margin-right: 20rpx;
+}
+
+.notice .info text {
+  line-height: 10rpx;
+}

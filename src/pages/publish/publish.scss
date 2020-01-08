@@ -1,0 +1,60 @@
+.publish-wrap {
+
+}
+
+.item {
+  height: 100rpx;
+  display: flex;
+  color: #666;
+  border-bottom: 1rpx solid #eee;
+}
+
+.item .label {
+  width: 200rpx;
+  line-height: 100rpx;
+  padding-left: 20rpx;
+}
+
+.item .content {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-weight: 200;
+}
+
+.radio {
+  margin-right: 20rpx;
+}
+
+.button {
+  margin: 20rpx;
+  background: #f29a38 !important;
+}
+
+.button.back {
+  background: #55b637 !important;
+}
+
+.button.submit {
+  background: #e1473c !important;
+}
+
+.notice {
+
+}
+
+.notice .info {
+  display: flex;
+  padding: 40rpx;
+  align-items: center;
+  justify-content: center;
+}
+
+.notice .info icon {
+  margin-right: 20rpx;
+}
+
+.notice .info text {
+  line-height: 10rpx;
+}
